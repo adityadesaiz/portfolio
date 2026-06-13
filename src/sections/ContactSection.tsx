@@ -69,7 +69,7 @@ export function ContactSection() {
           <ScrollReveal direction="left" x={-30}>
             <div className="overflow-hidden rounded-sm shadow-[0_8px_32px_rgba(0,0,0,0.4)] group" data-cursor-hover>
               <img
-                src="/images/profile-left.jpg"
+                src="images/profile-left.jpg"
                 alt="Aditya Desai - Professional portrait"
                 className="w-full h-auto object-cover transition-transform duration-400 group-hover:scale-[1.02]"
                 loading="lazy"

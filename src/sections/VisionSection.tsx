@@ -90,7 +90,7 @@ export function VisionSection() {
           title="Cost Is an Architecture Decision"
           body="Every architectural choice has a cost signature. I design systems where cost optimization is embedded in the architecture itself — not bolted on as an afterthought. Reserved capacity, workload right-sizing, and governance automation are first-class design constraints."
           quote="36.8% cost reduction isn't luck — it's architecture."
-          image="/images/vision-1.jpg"
+          image="images/vision-1.jpg"
         />
 
         <VisionBlock
@@ -98,7 +98,7 @@ export function VisionSection() {
           title="Data Is a Product, Not a Byproduct"
           body="In regulated financial entities, data governance isn't optional — it's existential. I treat data as a product with owners, SLAs, and lifecycle management. Unity Catalog with 9,000+ tables isn't a statistic — it's a governance operating model that scales."
           quote="Governance at scale is product management for data."
-          image="/images/vision-2.jpg"
+          image="images/vision-2.jpg"
         />
 
         <VisionBlock

@@ -57,9 +57,9 @@ export function ImpactVideoSection() {
         loop
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0"
-        poster="/images/hero-bg.jpg"
+        poster="images/hero-bg.jpg"
       >
-        <source src="/videos/impact.mp4" type="video/mp4" />
+        <source src="videos/impact.mp4" type="video/mp4" />
       </video>
 
       {/* Dark Overlay */}

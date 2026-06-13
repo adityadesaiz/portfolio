@@ -7,10 +7,10 @@ import { ScrollReveal } from '@/components/ScrollReveal';
 gsap.registerPlugin(ScrollTrigger);
 
 const images = [
-  { src: '/images/grid-1.jpg', alt: 'Server racks with LED lighting' },
-  { src: '/images/grid-2.jpg', alt: 'Circuit board macro' },
-  { src: '/images/grid-3.jpg', alt: 'Fiber optic light trails' },
-  { src: '/images/grid-4.jpg', alt: 'Dark workspace with laptop' },
+  { src: 'images/grid-1.jpg', alt: 'Server racks with LED lighting' },
+  { src: 'images/grid-2.jpg', alt: 'Circuit board macro' },
+  { src: 'images/grid-3.jpg', alt: 'Fiber optic light trails' },
+  { src: 'images/grid-4.jpg', alt: 'Dark workspace with laptop' },
 ];
 
 function ImageRow({ src, alt }: { src: string; alt: string }) {

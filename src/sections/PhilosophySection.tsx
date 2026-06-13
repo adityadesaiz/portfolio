@@ -233,7 +233,7 @@ export function PhilosophySection() {
         <div
           className="absolute top-0 left-0 right-0 h-[60vh] z-[1] pointer-events-none hidden md:block"
           style={{
-            backgroundImage: 'url(/images/philosophy-top.jpg)',
+            backgroundImage: 'url(images/philosophy-top.jpg)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             maskImage: 'linear-gradient(to bottom, black 60%, transparent 100%)',
