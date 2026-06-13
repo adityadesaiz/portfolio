@@ -39,7 +39,9 @@ export function Footer() {
                   GitHub
                 </a>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/adityadesaiz/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-text-white hover:text-amber transition-colors duration-300 font-archivo"
                   data-cursor-hover
                 >

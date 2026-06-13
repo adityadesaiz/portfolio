@@ -106,7 +106,7 @@ export function NavigationHeader() {
 
         {/* Email icon */}
         <a
-          href="mailto:adityadesaiz@gmail.com"
+          href="mailto:aditya.desai@email.com"
           className="text-text-white hover:text-amber transition-colors duration-300"
           aria-label="Send email"
           data-cursor-hover

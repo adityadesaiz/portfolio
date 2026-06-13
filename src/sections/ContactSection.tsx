@@ -89,7 +89,9 @@ export function ContactSection() {
             {/* Social Links */}
             <div className="flex flex-wrap gap-6">
               <a
-                href="#"
+                href="https://www.linkedin.com/in/adityadesaiz/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="font-archivo font-semibold text-base text-text-white hover:text-amber transition-colors duration-300 inline-flex items-center gap-1 group"
                 data-cursor-hover
               >
