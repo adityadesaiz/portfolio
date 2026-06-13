@@ -80,7 +80,7 @@ export function ContactSection() {
           {/* Right - Text */}
           <ScrollReveal className="flex flex-col justify-center">
             <p className="text-text-white text-lg leading-relaxed mb-6">
-              I&apos;m currently exploring senior architect and DVP-level opportunities across Singapore, Dubai, Canada, and Poland — specifically within regulated financial entities, cloud-native enterprises, and AI-first organizations.
+              I&apos;m currently exploring senior architect and DVP-level opportunities across Singapore, Dubai, Canada, and Poland — specifically within regulated financial entities, cloud-nati[...]
             </p>
             <p className="text-muted-grey leading-relaxed mb-8">
               If you&apos;re building at scale and need someone who thinks in systems, costs, and outcomes — let&apos;s talk.
@@ -122,7 +122,7 @@ export function ContactSection() {
               Ready to architect the next phase?
             </h4>
             <a
-              href="mailto:adityadesaiz@gmail.com"
+              href="mailto:aditya.desai@email.com"
               className="bg-amber text-midnight font-archivo font-semibold text-sm uppercase px-8 py-4 rounded transition-all duration-300 hover:bg-amber-light hover:-translate-y-0.5 shrink-0"
               data-cursor-hover
             >
