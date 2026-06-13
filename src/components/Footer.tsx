@@ -12,11 +12,11 @@ export function Footer() {
                 Let's build something extraordinary.
               </h3>
               <a
-                href="mailto:adityadesaiz@gmail.com"
+                href="mailto:aditya.desai@email.com"
                 className="font-mono text-base text-muted-grey hover:text-amber transition-colors duration-300 mt-4 inline-block"
                 data-cursor-hover
               >
-                adityadesaiz@gmail.com
+                aditya.desai@email.com
               </a>
             </div>
             <div>
